@@ -5,6 +5,7 @@
   <a href="https://github.com/UCSC-VLAA/o1_medicine"><img src="https://img.shields.io/static/v1?label=Code&message=Available&color=blue&logo=github"></a>  
   <a href="https://ucsc-vlaa.github.io/o1_medicine/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Available&color=blue&logo=githubpages"></a>  
   <a href="http://arxiv.org/abs/2409.15277"><img src="https://img.shields.io/static/v1?label=Paper&message=Available&color=red&logo=arxiv"></a>  
+  <a href="https://huggingface.co/datasets/UCSC-VLAA/o1_medical"><img src="https://img.shields.io/static/v1?label=Dataset&message=Available&color=brightgreen&logo=huggingface"></a>  
 </div>
 
 
