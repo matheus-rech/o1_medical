@@ -204,19 +204,19 @@ This work is partially supported by the OpenAI Researcher Access Program and Mic
 ## 📜 Citation
 
 If you find this work useful for your research and applications, please cite using this BibTeX:
-<!--
+
 ```bibtex
- @misc{xie2023preliminarystudy,
-  title={A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?},
-  author={Yunfei Xie and Juncheng Wu and Haoqin Tu and Siwei Yang and Bingchen Zhao and Yongshuo Zong and Qiao Jin and Cihang Xie and Yuyin Zhou},
-  year={2024},
-  eprint={XXXX.XXXXX},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL},
-  url={link_to_arxiv}, 
-} 
+@misc{xie2024preliminarystudyo1medicine,
+      title={A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?}, 
+      author={Yunfei Xie and Juncheng Wu and Haoqin Tu and Siwei Yang and Bingchen Zhao and Yongshuo Zong and Qiao Jin and Cihang Xie and Yuyin Zhou},
+      year={2024},
+      eprint={2409.15277},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.15277}, 
+}
 ```
--->
+
 
 ## 🔗 Related Projects
 
